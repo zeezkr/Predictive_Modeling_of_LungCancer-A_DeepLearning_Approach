@@ -5,6 +5,7 @@ The aim of this project is to demonstrate that deep learning models can signific
 This project explores the application of deep learning techniques to develop predictive models capable of identifying lung cancer from medical imaging data(chest X-rays ).
 
 Steps are:
+
           Data Collection
                           Gather a dataset of lung cancer images.
                           
